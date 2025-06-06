@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Arantxa 👩‍💻</h1>
-<p align="center">📍 Madrid · 💻 Formación técnica en desarrollo web · 🎯 Enfoque creativo y estratégico</p>
+<p align="center">·📍 Madrid · 💻 Desarrollo web (DAW)  ·🎓 Publicidad y marketing · 🎯 Perfil híbrido: diseño, estrategia y desarrollo web</p>
 
 ---
 
