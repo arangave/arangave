@@ -2,6 +2,8 @@
 <p align="center">📍 Madrid · 💻 Desarrollo web (DAW) · 🎓 Publicidad y marketing · 🎯 Perfil híbrido: diseño, estrategia y desarrollo web</p>
 
 ---
+🌐 Puedes ver y descargar mi CV online aquí → [cv-arantxa](https://arangave.github.io/cv-arantxa/)
+
 
 Soy **desarrolladora web junior** con background en **marketing, publicidad y diseño**, enfocada en crear soluciones digitales visuales, eficientes y con propósito. Me gusta mezclar la lógica del desarrollo frontend con el toque estratégico y estético que aprendí en el mundo de la comunicación.
 
